@@ -1,0 +1,23 @@
+# API keys and secrets
+sails-backend/config/datastores.js
+sails-backend/config/email.js
+
+# Dependency directory
+vue-frontend/node_modules
+sails-backend/node_modules
+
+vue-frontend/build
+
+# Editors
+.idea
+*.iml
+.vscode
+
+# OS metadata
+.DS_Store
+Thumbs.db
+vue-frontend/package-lock.json
+sails-backend/package-lock.json
+
+# Sublime Project Files
+*.sublime-*
