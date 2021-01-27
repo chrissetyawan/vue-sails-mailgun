@@ -31,9 +31,10 @@ sails lift
 
 ``` bash
 
-copy .env.example to .env
-
+# install dependencies
 npm install
+
+# run frontend on port 8080
 npm run serve
 
 ```
