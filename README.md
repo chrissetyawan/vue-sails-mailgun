@@ -36,9 +36,6 @@ copy .env.example to .env
 npm install
 npm run serve
 
-# build for production with minification
-yarn build
-
 ```
 
 
