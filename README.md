@@ -1,4 +1,4 @@
-# Vue-Sails 
+# Vue-Sails-MainGun
 
 Email sender application 
 - Sails as Backend 
