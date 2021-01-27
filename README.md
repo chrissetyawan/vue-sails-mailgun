@@ -17,7 +17,7 @@ Prarequesites:
 
 - create database on mysql
 - update config/datastores.js following your mysql settings
-- update config/email, following your MailGun SMTP user and pass
+- update config/email.js following your MailGun SMTP user and pass
 
 # install dependencies
 npm install
