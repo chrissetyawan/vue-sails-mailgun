@@ -6,7 +6,8 @@ Email sender application
 - MySQL as database
 - MailGun to send Email
 
-Prarequesites:
+Prerequesites:
+- Make sure already node, sails, mysql installed
 - Make sure already have MailGun account and setup the authorized recipients
   https://help.mailgun.com/hc/en-us/articles/217531258
 
