@@ -7,8 +7,8 @@ Email sender application
 - MailGun to send Email
 
 Prerequesites:
-- Make sure already node, sails, mysql installed
-- Make sure already have MailGun account and setup the authorized recipients
+- Make sure node, sails, mysql already installed 
+- Make sure have MailGun account and already setup the authorized recipients
   https://help.mailgun.com/hc/en-us/articles/217531258
 
 
